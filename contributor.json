@@ -1,0 +1,259 @@
+{
+   "firstName":"Jisan",
+   "lastName":"Zaman",
+   "email":"jzaman@gannett.com",
+   "byline":"Jisan Zaman",
+   "facebookUrl":"https://www.facebook.com/superjisan",
+   "twitterHandle":"@jisanzaman",
+   "bioTitle":{
+      "id":"4a78abd6-b7f5-43a3-870e-f4e75c5a870c",
+      "name":"Clerk",
+      "displayName":"Clerk",
+      "path":"Titles/Clerk",
+      "vocabulary":"StaffMetadata",
+      "attributes":{
+         "statusTerm":[
+            "Validated"
+         ],
+         "prefLabel":[
+            "Clerk"
+         ],
+         "doNotTag":[
+            "true"
+         ],
+         "created":[
+            "8/24/2016 9:03:49 PM"
+         ],
+         "createdBy":[
+            "lschill"
+         ],
+         "extractionMethod":[
+            "Same Form, Same Case"
+         ],
+         "modified":[
+            "2016-09-29T16:31:28.391Z"
+         ],
+         "modifiedBy":[
+            ""
+         ]
+      }
+   },
+   "googlePlusUrl":"",
+   "linkedinUrl":"",
+   "pinterestUrl":"",
+   "bylineSources":[
+
+   ],
+   "instagramUrl":"",
+   "youtubeUrl":"",
+   "phoneNumber":"7185780168",
+   "profileImage":{
+
+   },
+   "snapchatUrl":"",
+   "bio":"A Man A Plan A Canal, Panama. Four Scores and Seven Years Ago. United We Stand. Divided We Fall. Ask not what your country can do for you but what you can do for your country. Audacity Of Hope. Mexicans Are Bringing Crime and are Rapists.",
+   "isActive":true,
+   "languages":[
+
+   ],
+   "skills":[
+      {
+         "id":"8a7a2f3e-3043-4750-9f4f-1fcf3b2e947c",
+         "name":"Kickboxing",
+         "displayName":"Kickboxing",
+         "path":"Sports/Kickboxing",
+         "vocabulary":"Subjects",
+         "attributes":{
+            "statusTerm":[
+               "Validated"
+            ],
+            "created":[
+               "2015-12-09"
+            ],
+            "modified":[
+               "2016-02-24"
+            ],
+            "doNotextract":[
+               "true"
+            ],
+            "requestor":[
+               "Elmira Star-Gazette",
+               "alegare"
+            ],
+            "Comment":[
+               "Reviewed, validated, LF, 2/14/16",
+               "Candidate, 20160104 s, KBD",
+               "Subjects, class changed 20151210, KBD"
+            ],
+            "definition":[
+               "Kickboxing is a form of martial arts that combines boxing and elements of karate. Competitive kickboxing involves sparring with an opponent in a ring. Recreational kickboxers often perform the moves to music for the fitness benefits."
+            ],
+            "prefLabel":[
+               "Kickboxing"
+            ],
+            "extractionMethod":[
+               "Same Form, Same Case"
+            ]
+         }
+      },
+      {
+         "id":"3a30ca7e-a6b6-4ee1-b7a0-259101e6d59a",
+         "name":"Money laundering",
+         "displayName":"Money laundering",
+         "path":"Law and order/Crime/Money laundering",
+         "vocabulary":"Subjects",
+         "attributes":{
+            "definition":[
+               "The illegal activity of purposely concealing, disguising or transforming the origins of large sums of money obtained through criminal means (such as drug trafficking or theft), so that they appear legitimately acquired."
+            ],
+            "prefLabel":[
+               "Money laundering"
+            ],
+            "trainingSet":[
+               "false"
+            ],
+            "created":[
+               "2012-06-06T00:00:00.000Z"
+            ],
+            "modified":[
+               "2014-08-22T00:00:00.000Z"
+            ],
+            "Comment":[
+               "This is a test comment."
+            ],
+            "statusTerm":[
+               "Validated"
+            ]
+         }
+      }
+   ],
+   "hobbies":[
+      {
+         "id":"8a7a2f3e-3043-4750-9f4f-1fcf3b2e947c",
+         "name":"Kickboxing",
+         "displayName":"Kickboxing",
+         "path":"Sports/Kickboxing",
+         "vocabulary":"Subjects",
+         "attributes":{
+            "statusTerm":[
+               "Validated"
+            ],
+            "created":[
+               "2015-12-09"
+            ],
+            "modified":[
+               "2016-02-24"
+            ],
+            "doNotextract":[
+               "true"
+            ],
+            "requestor":[
+               "Elmira Star-Gazette",
+               "alegare"
+            ],
+            "Comment":[
+               "Reviewed, validated, LF, 2/14/16",
+               "Candidate, 20160104 s, KBD",
+               "Subjects, class changed 20151210, KBD"
+            ],
+            "definition":[
+               "Kickboxing is a form of martial arts that combines boxing and elements of karate. Competitive kickboxing involves sparring with an opponent in a ring. Recreational kickboxers often perform the moves to music for the fitness benefits."
+            ],
+            "prefLabel":[
+               "Kickboxing"
+            ],
+            "extractionMethod":[
+               "Same Form, Same Case"
+            ]
+         }
+      }
+   ],
+   "almamaters":[
+      {
+         "id":"4f4c5673-db99-462f-8dbb-4eaf126133cd",
+         "name":"Marymount College",
+         "displayName":"Marymount College",
+         "path":"Lifestyle and education/Schools/Colleges and universities/Marymount College",
+         "vocabulary":"Places",
+         "attributes":{
+            "locationType":[
+               "College/University"
+            ],
+            "definition":[
+               "Now part of Fordham"
+            ],
+            "prefLabel":[
+               "Marymount College"
+            ],
+            "created":[
+               "2014-07-17"
+            ],
+            "modified":[
+               "2014-07-17"
+            ],
+            "Comment":[
+               "Westchester, added 20140717",
+               "Westchester, updated 20140717"
+            ]
+         }
+      }
+   ],
+   "hometown":{
+      "id":"e078807f-fd08-41de-aab6-d0617638b4cd",
+      "name":"Albany, NY",
+      "displayName":"Albany, NY",
+      "path":"North America/United States/New York/Albany, NY",
+      "vocabulary":"Geography",
+      "attributes":{
+         "locationType":[
+            "City"
+         ],
+         "lat":[
+            "42.65258"
+         ],
+         "long":[
+            "-73.75623"
+         ],
+         "created":[
+            "2012-06-06"
+         ],
+         "modified":[
+            "2014-04-23"
+         ],
+         "prefLabel":[
+            "Albany, NY"
+         ]
+      }
+   },
+   "username":"",
+   "beats":[
+
+   ],
+   "legacyStaffs":[
+      {
+         "id":31237,
+         "siteCode":"USAT",
+         "error":"could not join on id property"
+      },
+      {
+         "id":31239,
+         "siteCode":"PROC",
+         "error":"could not join on id property"
+      }
+   ],
+   "updatedDate":"2016-10-10T18:23:05.384Z",
+   "updatedByUser":"jzaman",
+   "updatedBySystem":"Presto Next",
+   "currentVersionHash":"3d680086e644a94bb059cb9654c77601",
+   "currentVersionDate":1476123785384,
+   "id":"jzaman",
+   "aggregateName":"contributor-profile",
+   "createdByUser":"jzaman",
+   "createdBySystem":"Presto Next",
+   "createdDate":"2016-08-31T21:11:24.380Z",
+   "friendlyId":300316001,
+   "eventState":{
+      "headHash":"3d680086e644a94bb059cb9654c77601",
+      "requestedHash":"3d680086e644a94bb059cb9654c77601"
+   }
+}
