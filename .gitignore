@@ -4,7 +4,7 @@
 .nodemonignore
 .sass-cache/
 
-# Ignore all log files
+# Ignore all log files #
 *.log
 
 # Ignore Node Modules
